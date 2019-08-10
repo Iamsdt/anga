@@ -12,9 +12,9 @@ from starlette.staticfiles import StaticFiles
 export_file_url = 'https://drive.google.com/uc?export=download&id=1E0_1x9E6EgwHqbOjPx-4rtOKK_pAfowO'
 export_file_name = 'export.pkl'
 
-classes = ['Apple Apple_scab',
-           'Apple Black_rot',
-           'Apple Cedar_apple_rust',
+classes = ['Apple Apple scab',
+           'Apple Black rot',
+           'Apple Cedar apple_rust',
            'Apple healthy', 'Blueberry healthy',
            'Cherry(including_sour) Powdery_mildew',
            'Cherry(including_sour) healthy', 'Corn_(maize) Cercospora_leaf_spot Gray_leaf_spot',
